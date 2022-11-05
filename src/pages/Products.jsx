@@ -5,7 +5,9 @@ import Header from "../components/Header";
     const Product = () => {
         const {userId} = useParams();
     return (
-        <Header></Header>
+        
+            <div>holegledg
+            </div>
     
     )
 }

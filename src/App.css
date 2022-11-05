@@ -110,3 +110,8 @@
   justify-content: center;
   align-items: center;
 }
+.tesiCon {
+  width: 100vw;
+  display: flex;  
+  overflow: scroll;
+}
